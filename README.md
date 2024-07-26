@@ -1,5 +1,10 @@
 # Face-Detection_using_Colab
 
+The motive of this file is to help others(people with no coding experience ) to have a look and make it easy looking 
+This code is made using 3 simple libraries:
+1. CV2
+2. matplotlib
+3. NumPY
 
 "Here's a simple project that can be created in Google Colab. Even someone with no coding experience can work on it.
 
