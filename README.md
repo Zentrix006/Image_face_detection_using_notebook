@@ -78,7 +78,7 @@ To ensure accuracy, we must utilize Jupyter Lab. Start by installing Anaconda Na
 This is a simple Code even a person with no coding background can try out..
 
 if any doubts feel free to reachout to
-Insta =  https://www.instagram.com/theunwantedone006/
+Insta =  https://www.instagram.com/themenfelix/
 
 
 
